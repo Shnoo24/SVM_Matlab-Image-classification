@@ -5,10 +5,10 @@ This Code is using these Dataset from Kaggle
 
 https://www.kaggle.com/datasets/mdkabinhasan/sports-ball-dataset
 https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification
-#### These are the sources but i would recommedn to get the dataset from this link_
+#### These are the raw sources but i would recommend to get the dataset from this link because I am using csv for reading the paths 
 https://drive.google.com/file/d/1N1jnVj3bFiaJ0mfea_Aaa5cdQZKA3WxD/view?usp=drive_link
-because I am using csv for reading the paths 
-We used SVM (Support Vector Machine ) Algorithm to Classify to Classes of Sports-Balls 
+
+#### We used SVM (Support Vector Machine ) Algorithm to Classify to Classes of Sports-Balls 
 1- BasketBall
 2- FootBall
 This Method Could be used for multiclasses but for saving time in live present and to achieve the best result in this project.
