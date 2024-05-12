@@ -30,13 +30,6 @@ Make sure you have these Matalb packages Before using this Code
 - 4- If you want to test some image you have out of dataset you can type `test` in CLI 
 
 
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
-
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
